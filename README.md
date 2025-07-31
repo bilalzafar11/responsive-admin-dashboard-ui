@@ -4,7 +4,7 @@ This is a modern, responsive admin dashboard built using **HTML, CSS, and JavaSc
 
 ## 🔗 Live Preview
 
-👉 [View Live Dashboard](https://bilalzafar11.github.io/responsive-admin-dashboard)
+👉 [View Live Dashboard](https://bilalzafar11.github.io/responsive-admin-dashboard-ui/)
 
 ## 📁 Features
 
